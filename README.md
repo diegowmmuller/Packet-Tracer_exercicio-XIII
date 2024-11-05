@@ -12,4 +12,5 @@ Dispositivos utilizados:
 - 1 Laptop
 - 1 Smartphone
 
-  ![Exercicio-XIII](https://github.com/user-attachments/assets/bbf6e390-0928-4861-843c-699f34cce58f)
+
+![Exercicio-XIII](https://github.com/user-attachments/assets/c7c66693-cabf-4cb0-b452-e15bb1c0ac5e)
